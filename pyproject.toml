@@ -14,11 +14,11 @@ classifiers = [
     "License :: Free For Educational Use",
     "Natural Language :: English",
     "Operating System :: POSIX :: Linux",
-    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.8",
     "Topic :: Education :: Testing"
 ]
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8"
 
 
 [tool.poetry.dev-dependencies]
